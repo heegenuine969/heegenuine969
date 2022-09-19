@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on "have no plans yet"
 - 📫 How to reach me 
-out.println("khj30559976@gmail.com");
+out.println("gmlwl7894@gmail.com");
 
 <!---
 heegenuine969/heegenuine969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
